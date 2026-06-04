@@ -4,3 +4,6 @@ int main() {
     // cout << "Hello World!"; will not work coz std missing
     return 0;
 }
+    /*multiline
+    comments*/
+    //single line (i know this already)
