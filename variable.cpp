@@ -3,10 +3,11 @@ using namespace std;
 int main (){
     int number = 30;
     float decimal = 0.123456789;
-    double long_deci = 0.123456789;
-    char alphabet = 'f';
-    string word = "wassup";
+    double longDeci = 0.123456789;  //camelcase  
+    char alphabet = 'f';            //variable can start from alphabets and _ and anythings else cannot be used to make variables
+    string _word = "wassup";
     bool t_or_f = true;
-    cout << number << "\n" << decimal << "\n" << long_deci << "\n" << alphabet << "\n" << word << "\n" << t_or_f ;
-    
+    //data-type variable = value; 
+    cout << number << "\n" << decimal << "\n" << longDeci << "\n" << alphabet << "\n" << _word << "\n" << t_or_f ;
+
 }
