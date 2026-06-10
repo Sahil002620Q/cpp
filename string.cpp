@@ -34,10 +34,38 @@ int main () {
     //int x and string y can not be added due different data type
 
     //String length and size ie both are same
-    string text = "Hello Mrs. Sahil, How is is you cpp going";
-    cout << text.length();
-    cout << text.size();
+    string text = "\nHello Mrs. Sahil, How is is you cpp going";  //\n is together and takes 1 bit pf storage
+    cout << text.length() << endl ;
+    cout << text.size() << endl ;
 
+    string str = "docker ps -a list all containers";
+    cout << str[1] << str[14] <<  str[15] << str[1] << endl ;  //+ can't be use in place of <<
+    cout << str[str.length()-1] << endl ;  //negative indexing just like str[-1] in python
+
+    //string modification
+    string stg = "docker images";
+    stg[0] = 'D';
+    cout << stg << endl;
+
+    //at(x) function works simmilar to string[x]
+    string gh = "Git Hub";
+    cout << "Original string : " << gh << endl ;
+
+    cout << "First character : " << gh.at(0) << endl ;    
+    cout << "Second character : " << gh.at(1) << endl ;
+    cout << "Third character : " << gh.at(2) << endl << endl;
+    cout << "Last character : " << gh.at(gh.length()-1) << endl;
+
+    gh.at(0) = 'D';
+    gh.at(1) = 'e';
+    gh.at(2) = 'v';
+
+
+    cout << "Modified string : " << gh << endl;
+
+    //special character \', \" ,\\ , \n , \t 
+    string dh = "Dev hub is owned by \"sahil\" and ";
+    cout << dh << endl;
 
 
 }
