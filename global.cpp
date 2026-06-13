@@ -18,5 +18,14 @@ int main () {
     char myblood = 'A', mygit = 'B' , youare = 'C';
     cout << "my blood group is " << myblood << " , my current GitHub grade is +" << mygit << " and you are a '" << youare << "'";
 
-    
+    string st = "string";
+    cout << st <<endl;
+
+    int a = 25;
+    int* ptra;
+    ptra = &a;
+    cout << a <<endl;
+    cout << *ptra <<endl;
+    cout << ptra <<endl;
+    cout << &a <<endl;
 } 
