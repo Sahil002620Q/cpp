@@ -67,5 +67,8 @@ int main () {
     string dh = "Dev hub is owned by \"sahil\" and ";
     cout << dh << endl;
 
+    //c style string
+    char mystr[] = "hello";
+    cout << mystr << endl;
 
 }
