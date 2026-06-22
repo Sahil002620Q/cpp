@@ -47,9 +47,9 @@ int isdivby2(int x){
     string sx = to_string(x);
     char back = sx.back();
     if (back == '2' || back == '4' || back == '6' || back == '8' || back == '0'){
-        cout << "yes";
+        cout << "yes" << endl ;
     }else{
-        cout << "no";
+        cout << "no" << endl ;
     }
     return 0;
 }
@@ -94,11 +94,22 @@ int min(int x,int y,int z){
     return 0;
 }
 
+int fact(int n) {
+    int fact = 1;
+    for(int i = 1 ; i <= n ; i++){
+        fact = fact*i;
+    }
+
+    cout << n << "! = "  << fact  << endl;
+    return 0;
+}
+
 int main () {
-    // isdivby2(3);
-    // add(4,5);
-    // sub(4,5);
-    // divfloat(5,2);
+    cube(5);
+    sq(7);
+    isdivby2(3);
     min(2,4);
     min(2,3,4);
+    fact(5);
+    
 }
