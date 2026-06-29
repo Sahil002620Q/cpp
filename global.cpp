@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+
+void lineanime(){
+   list = 
+}
 int main () {
     float f1 = 4e3;  //exponential
     int i1 = 4e3;
