@@ -16,7 +16,7 @@ int start(int startingAmount){
 
 int inc(int amount){
     
-    cout << final ;
+    cout << "final" ;
     return 0;
 }
 
