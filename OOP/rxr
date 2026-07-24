@@ -1,0 +1,14 @@
+| Brand         | Model               | Body Type | Engine (Typical)       | Power (Approx.) | Fuel Type     | Drivetrain | Seating | Top Speed (Approx.) | Approx. Price (INR) |
+| ------------- | ------------------- | --------- | ---------------------- | --------------: | ------------- | ---------- | ------- | ------------------: | ------------------: |
+| BMW           | 3 Series            | Sedan     | 2.0L Turbo I4          |          255 hp | Petrol        | RWD/AWD    | 5       |            250 km/h |            ₹63 lakh |
+| BMW           | X5                  | SUV       | 3.0L Turbo I6          |          375 hp | Petrol/Diesel | AWD        | 5–7     |            243 km/h |            ₹97 lakh |
+| BMW           | M4 Competition      | Coupe     | 3.0L Twin-Turbo I6     |          523 hp | Petrol        | AWD        | 4       |            290 km/h |         ₹1.61 crore |
+| Mercedes-Benz | C-Class             | Sedan     | 2.0L Turbo I4          |          255 hp | Petrol        | RWD/AWD    | 5       |            250 km/h |            ₹60 lakh |
+| Audi          | A4                  | Sedan     | 2.0L Turbo I4          |          261 hp | Petrol        | AWD        | 5       |            250 km/h |            ₹47 lakh |
+| Audi          | Q5                  | SUV       | 2.0L Turbo I4          |          261 hp | Petrol        | AWD        | 5       |            240 km/h |            ₹66 lakh |
+| Toyota        | Camry               | Sedan     | 2.5L I4 Hybrid         |          225 hp | Hybrid        | FWD        | 5       |            180 km/h |            ₹49 lakh |
+| Honda         | Civic*              | Sedan     | 1.5L Turbo I4          |          180 hp | Petrol        | FWD        | 5       |            220 km/h |          ~₹22 lakh* |
+| Tesla         | Model 3 Long Range* | Sedan     | Dual Electric Motors   |          498 hp | Electric      | AWD        | 5       |            201 km/h |          ~₹60 lakh* |
+| Ford          | Mustang GT*         | Coupe     | 5.0L V8                |          480 hp | Petrol        | RWD        | 4       |            250 km/h |          ~₹80 lakh* |
+| Porsche       | 911 Carrera         | Coupe     | 3.0L Twin-Turbo Flat-6 |          379 hp | Petrol        | RWD        | 4       |            293 km/h |         ₹2.10 crore |
+| Lamborghini   | Huracán EVO*        | Supercar  | 5.2L V10               |          631 hp | Petrol        | AWD        | 2       |            325 km/h |       ~₹4.00 crore* |
