@@ -1,0 +1,13 @@
+car  =  {"Brand         "  ," Model              " , "Body Type" , Eng, n"e (Typical)      " , pprox, "Fuel Type    " ,  Se,(Appr, x. Price };
+car  =  {"BMW           "  ," 3 Series           " , "Sedan    " , 2.0,  "Turbo I4         " ,  255 , "Petrol       " ,  5 , 250 ,       ₹63};
+car  =  {"BMW           "  ," X5                 " , "SUV      " , 3.0,  "Turbo I6         " ,  375 , "Petrol/Diesel" ,  5–, 243 ,       ₹97};
+car  =  {"BMW           "  ," M4 Competition     " , "Coupe    " , 3.0,  "Twin-Turbo I6    " ,  523 , "Petrol       " ,  4 , 290 ,    ₹1.61 };
+car  =  {"Mercedes-Benz "  ," C-Class            " , "Sedan    " , 2.0,  "Turbo I4         " ,  255 , "Petrol       " ,  5 , 250 ,       ₹60};
+car  =  {"Audi          "  ," A4                 " , "Sedan    " , 2.0,  "Turbo I4         " ,  261 , "Petrol       " ,  5 , 250 ,       ₹47};
+car  =  {"Audi          "  ," Q5                  " , "SUV      " , 2.0,  "Turbo I4         " ,  261 , "Petrol       " ,  5 , 240 ,       ₹66};
+car  =  {"Toyota        "  ," Camry              " , "Sedan    " , 2.5,  "I4 Hybrid        " ,  225 , "Hybrid       " ,  5 , 180 ,       ₹49};
+car  =  {"Honda         "  ," Civic*             " , "Sedan    " , 1.5,  "Turbo I4         " ,  180 , "Petrol       " ,  5 , 220 ,     ~₹22 };
+car  =  {"Tesla         "  ," Model 3 Long Range*" , "Sedan    " , Dua,  "Electric Motors  " ,  498 , "Electric     " ,  5 , 201 ,     ~₹60 };
+car  =  {"Ford          "  ," Mustang GT*        " , "Coupe    " , 5.0,  "V8               " ,  480 , "Petrol       " ,  4 , 250 ,     ~₹80 };
+car  =  {"Porsche       "  ," 911 Carrera        " , "Coupe    " , 3.0,  "Twin-Turbo Flat-6" ,  379 , "Petrol       " ,  4 , 293 ,    ₹2.10 };
+car  =  {"Lamborghini   "  ," Huracán EVO*       " , "Supercar " , 5.2,  "V10              " ,  631 , "Petrol       " ,  2 , 325 ,  ~₹4.00 c};
