@@ -1,0 +1,4 @@
+Hello from fstream!this file is created using fstream library
+Use ofstream for write and override operation 
+Use ifstream for read only
+Use fstream of read write or overriding a file
